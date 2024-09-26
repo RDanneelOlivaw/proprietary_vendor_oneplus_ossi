@@ -16,7 +16,7 @@ $(call add-radio-file-sha1-checked,radio/featenabler.img,b0c21c9e046a2300e8ea581
 $(call add-radio-file-sha1-checked,radio/hyp.img,1fccfd387a1beeff3f990bf81f1a41c595783911)
 $(call add-radio-file-sha1-checked,radio/imagefv.img,2f045c685b252db53a5328f9eeafd723734007f9)
 $(call add-radio-file-sha1-checked,radio/keymaster.img,9e0c38a01148c94261c26c88ddadce16abacaf6a)
-$(call add-radio-file-sha1-checked,radio/mmodem.img,9648ef912bd5e938790266b27a9b7bbccad42c9f)
+$(call add-radio-file-sha1-checked,radio/modem.img,9648ef912bd5e938790266b27a9b7bbccad42c9f)
 $(call add-radio-file-sha1-checked,radio/oplus_sec.img,611818027635a560cf56f608943533a9560a7c50)
 $(call add-radio-file-sha1-checked,radio/oplusstanvbk.img,967704727c162dc5cd801aa2630c93a56232f8d8)
 $(call add-radio-file-sha1-checked,radio/qupfw.img,2474571a8bb4ba919ba6a807bbf50ccd3cde93e2)
