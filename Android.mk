@@ -24,7 +24,7 @@ $(call add-radio-file-sha1-checked,radio/rpm.img,b65ca23ef867c3999f186395a7b5317
 $(call add-radio-file-sha1-checked,radio/splash.img,cef1d4886175660f305e78ab39b7782f8625e431)
 $(call add-radio-file-sha1-checked,radio/tz.img,74b38587ce1d05358f4c8d9e8926d11e89288386)
 $(call add-radio-file-sha1-checked,radio/uefisecapp.img,d6289aef92664932df6474444182fb49edacf52b)
-$(call add-radio-file-sha1-checked,radio/xbl.imgbed846128c4c336d5349e0446347ccae31afc491)
+$(call add-radio-file-sha1-checked,radio/xbl.img,bed846128c4c336d5349e0446347ccae31afc491)
 $(call add-radio-file-sha1-checked,radio/xbl_config.img,33916d0a243f80f4b285c0d60185322f52e07d83)
 
 endif
